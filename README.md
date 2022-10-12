@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Szymon and I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Applied Informatics and Telecommunication field of study. Aiming at Master's also in Applied Computer Science.  
+My name is Szymon and I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Applied Informatics and Telecommunication field of study (Former Electronics and Telecommunication student - succesfully changed shifted between courses after accomplishing 1st term). Aiming at Master's also in Applied Computer Science.  
 
 Exact fields of interest:
 - Broadly defined programming, e.g.: AI/ML, Web Services, DevOps.
