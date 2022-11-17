@@ -8,7 +8,7 @@
 <br>
 <h3>Exact fields of interest:</h3>
 <ul>
-  <li>Broadly defined programming, e.g.: AI/ML, Web Services, DevOps.</li>
+  <li>Broadly defined programming and software enginerring, e.g.: AI/ML, MLOps, DevOps, Web Services, QA.</li>
   <li>Basics of electronics and ICT: Multisim, Asembler, Active Directory, GNS3.</li>
   <li>Love for Math and overall STEM fields of science.</li>
 <p>Want to become Software Engineer in the future.</p>
