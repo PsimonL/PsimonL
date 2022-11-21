@@ -22,14 +22,14 @@
 <h3>Other Tools:</h3>
 <br>
 
-<!--- <h3>Statistics: </h3>
+ <h3>Statistics: </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=PsimonL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="PsimonL" 
     bg_color=#808080/></p>
 
 <br>
-
+<!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PsimonL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="PsimonL" /></p>
 <p><img align="center" 
@@ -41,8 +41,9 @@
       <img align="center"
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 --->
-
+<!---
 <h3>Views and followers: </h3>
 <a href="https://github.com/PsimonL/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
 </a>
+--->
