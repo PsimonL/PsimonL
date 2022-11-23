@@ -16,13 +16,19 @@
 </div>
 <h2>Technology Stack:</h2>
 <h3>Programming languages:</h3>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src                ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
+<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-00008B?style=for-the-badge&logo=MySQL&logoColor=white" />
+
 <h3>Frameworks:</h3>
 <h3>Tools:</h3>
 <h3>Other Tools:</h3>
 <br>
-
-<!--- <h3>Statistics: </h3>
+<!---
+ <h3>Statistics: </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=PsimonL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="PsimonL" 
