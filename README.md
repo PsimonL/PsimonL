@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-00008B?style=for-the-badge&logo=MySQL&logoColor=white" />
 
-<h3>Frameworks:</h3>
+<h3>Frameworks & Libraries:</h3>
 <h3>Tools:</h3>
 <h3>Other Tools:</h3>
 <br>
