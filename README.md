@@ -16,13 +16,14 @@
 </div>
 <h2>Technology Stack:</h2>
 <h3>Programming languages:</h3>
-<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu" />
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-00008B?style=for-the-badge&logo=MySQL&logoColor=white" />
-
+<p align="left">
+  <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="c" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/python.png" alt="python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/golang.png" alt="golang" width="40" height="40"/>
+</p>
+  
 <h3>Frameworks & Libraries:</h3>
 <h3>Tools:</h3>
 <h3>Other Tools:</h3>
