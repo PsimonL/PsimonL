@@ -22,6 +22,11 @@
   <img src="https://img.icons8.com/color/512/python.png" alt="python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/golang.png" alt="golang" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/html-5.png" alt="html" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/css3.png" alt="css" width="40" height="40"/>
+  <img src="https://img.icons8.com/plasticine/512/bash.png" alt="bash" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/c-sharp-logo-2.png" alt="C#" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript" width="40" height="40"/>
 </p>
   
 <h3>Frameworks & Libraries:</h3>
