@@ -2,11 +2,11 @@
   <h1 align="center">Hi 👋, I'm Szymon</h1>
 </div>
 <div>
-  <p>I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Applied Informatics and Telecommunication field of study (Former       Electronics and Telecommunication student - succesfully changed shifted between courses after accomplishing 1st term). Aiming at Master's also in Applied Computer     Science.</p>
+  <p>I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully changed shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science.</p>
 </div>
 <div>
 <br>
-<h3>Exact fields of interest:</h3>
+<h2>Exact fields of interest:</h2>
 <ul>
   <li>Broadly defined programming and software enginerring, e.g.: AI/ML, MLOps, DevOps, Web Services, QA.</li>
   <li>Basics of electronics and ICT: Multisim, Asembler, Active Directory, GNS3.</li>
@@ -16,8 +16,8 @@
 </div>
 
 <!--- https://icons8.com/icons/set/docker --->
-<h2>Technology Stack:</h2>
-<h3>Programming languages:</h3>
+<h3>Technology Stack:</h3>
+<h4>Programming languages:</h4>
 <p align="left">
   <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="c" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
@@ -31,27 +31,27 @@
   <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript" width="40" height="40"/>
 </p>
   
-<h3>Frameworks & Libraries:</h3>
+<h4>Frameworks & Libraries:</h4>
 <p align="left">
   <img src="https://img.icons8.com/color/512/numpy.png" alt="numpy" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/tensorflow.png" alt="tensorflow" width="40" height="40"/>
   <img src="https://img.icons8.com/ios/512/flask.png" alt="flask" width="40" height="40"/>
 </p>
-<h3>Tools:</h3>
+<h4>Tools:</h4>
 <p align="left">
    <img src="" alt="aws" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="mysql" width="40" height="40"/>
   <img src="https://icons8.com/icon/cdYUlRaag9G9/docker" alt="docker" width="40" height="40"/>
 </p>
 
-<h3>Other:</h3>
+<h4>Other:</h4>
 <p align="left">
   <img src="" alt="azure" width="40" height="40"/>
   <img src="" alt="visual paradigm" width="40" height="40"/>
 </p>
 <br>
 
- <h3>Statistics: </h3>
+ <h4>Statistics: </h4>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=PsimonL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="PsimonL" 
@@ -70,7 +70,7 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 --->
 <!---
-<h3>Views and followers: </h3>
+<h4>Views and followers: </h4>
 <a href="https://github.com/PsimonL/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
 </a>
