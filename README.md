@@ -14,7 +14,6 @@
   <li>Broadly defined programming and software enginerring, e.g.: AI/ML, MLOps, DevOps, Web Services, QA.</li>
   <li>Basics of electronics and ICT: Multisim, Asembler, Active Directory, GNS3.</li>
   <li>Love for Math and overall STEM fields of science.</li>
-<p>Want to become Software Engineer in the future.</p>
 </ul>
 </div>
 
