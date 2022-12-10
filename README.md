@@ -24,19 +24,21 @@
 <h4>Programming languages:</h4>
 <h5>Skills:</h5>
 <p align="left">
-  <img src="https://img.icons8.com/color/512/python.png" alt="python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/golang.png" alt="golang" width="40" height="40"/>
-  <img src="https://img.icons8.com/plasticine/512/bash.png" alt="bash" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
+  <img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
 </p>
 <h5>Familarity:</h5>
   <p align="left">
-  <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="c" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/html-5.png" alt="html" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/css3.png" alt="css" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/r-project.png" alt="R SOFTWARE" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/css3.png" alt="CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/c-sharp-logo-2.png" alt="C#" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/javascript.png" alt="JAVASCRIPT" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/matlab.png" alt="JAVASCRIPT" width="40" height="40"/>
 </p>
 </div>
 
