@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
 </p>
-  
+
 <h5>Familarity:</h5>
   <p align="left">
   <img src="https://img.icons8.com/fluency/512/r-project.png" alt="R SOFTWARE" width="40" height="40"/>
@@ -69,6 +69,7 @@
   <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/vmware-workstation-player.png" alt="VM WARE" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/virtualbox.png" alt="VIRTUALBOX" width="40" height="40"/>
 </p>
 
 <h4>Other:</h4>
