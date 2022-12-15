@@ -63,7 +63,7 @@
    <img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/512/vmware.png" alt="VM WARE" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/vmware-workstation-player.png" alt="VM WARE" width="40" height="40"/>
 </p>
 
 <h4>Other:</h4>
