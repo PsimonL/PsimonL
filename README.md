@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p>I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully changed shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science.</p>
+  <p>I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science.</p>
 </div>
 
 <br>
@@ -59,7 +59,7 @@
 <p align="left">
    <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="mysql" width="40" height="40"/>
   <img src="" alt="aws" width="40" height="40"/>
-  <img src="https://icons8.com/icon/cdYUlRaag9G9/docker" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/docker.png" alt="docker" width="40" height="40"/>
 </p>
 
 <h4>Other:</h4>
