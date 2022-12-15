@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/512/css3.png" alt="CSS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/c-sharp-logo-2.png" alt="C#" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/javascript.png" alt="JAVASCRIPT" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/512/matlab.png" alt="JAVASCRIPT" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/matlab.png" alt="MATLAB" width="40" height="40"/>
 </p>
 </div>
 
@@ -48,24 +48,28 @@
 <p align="left">
   <img src="https://img.icons8.com/color/512/numpy.png" alt="numpy" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/tensorflow.png" alt="tensorflow" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/512/flask.png" alt="flask" width="40" height="40"/>
-  <img src="" alt="pandas" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/512/flask.png" alt="Flask" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/pandas.png" alt="pandas" width="40" height="40"/>
   <img src="" alt="seaborn" width="40" height="40"/>
   <img src="" alt="matplotlib" width="40" height="40"/>
-  <img src="" alt="SQLalchemy" width="40" height="40"/>
-  <img src="" alt="Flask" width="40" height="40"/>
+<!--   <img src="" alt="SQLalchemy" width="40" height="40"/> -->
 </p>
+
 <h4>Tools:</h4>
 <p align="left">
    <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="mysql" width="40" height="40"/>
-  <img src="" alt="aws" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/docker.png" alt="docker" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/512/docker.png" alt="docker" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/512/vmware.png" alt="VM WARE" width="40" height="40"/>
 </p>
 
 <h4>Other:</h4>
 <p align="left">
-  <img src="" alt="azure" width="40" height="40"/>
-  <img src="" alt="visual paradigm" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="azure" width="40" height="40"/>
+  <img src="https://img.icons8.com/clouds/512/visual-paradigm.png" alt="visual paradigm" width="40" height="40"/>
 </p>
 <br>
 
