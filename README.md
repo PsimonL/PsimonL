@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p>I'm currently studying at AGH UST in Kraków (Poland), doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science.</p>
+  <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science. Aiming for Master's Engineering degree in Applied Computer Science or Data Science.</p>
 </div>
 
 <br>
@@ -11,8 +11,8 @@
 <div>
 <h2>Exact fields of interest:</h2>
 <ul>
-  <li>Broadly defined programming and software enginerring, e.g.: AI/ML, MLOps, DevOps, Web Services, QA.</li>
-  <li>Basics of electronics and ICT: Multisim, Asembler, Active Directory, GNS3.</li>
+  <li>Broadly defined programming and software enginerring. Especially AI/ML (MLOps) and Data Engineering fields but also DevOps, infrastructure and administration with a bit of Web Services, QA.</li>
+  <li>Basics of electronics and ICT: NI Multisim, Asembler, Active Directory, GNS3, Linux Admin.</li>
   <li>Love for Math and overall STEM fields of science.</li>
 </ul>
 </div>
@@ -21,6 +21,7 @@
 
 <div>
 <h3>Technology Stack:</h3> <!--- https://icons8.com/icons/set/docker --->
+  
 <h4>Programming languages:</h4>
 <h5>Skills:</h5>
 <p align="left">
@@ -29,6 +30,7 @@
   <img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
 </p>
+  
 <h5>Familarity:</h5>
   <p align="left">
   <img src="https://img.icons8.com/fluency/512/r-project.png" alt="R SOFTWARE" width="40" height="40"/>
@@ -57,10 +59,13 @@
 
 <h4>Tools:</h4>
 <p align="left">
-   <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="mysql" width="40" height="40"/>
-   <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" width="40" height="40"/>
-   <img src="https://img.icons8.com/color/512/docker.png" alt="docker" width="40" height="40"/>
-   <img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/windows-10.png" alt="WINDOWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/jupyter.png" alt="JUPYTER" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="mysql" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/docker.png" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/vmware-workstation-player.png" alt="VM WARE" width="40" height="40"/>
