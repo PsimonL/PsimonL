@@ -77,6 +77,7 @@
   <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="azure" width="40" height="40"/>
   <img src="https://img.icons8.com/clouds/512/visual-paradigm.png" alt="visual paradigm" width="40" height="40"/>
 </p>
+
 <br>
 
  <h4>Statistics: </h4>
@@ -98,9 +99,9 @@
       <img align="center"
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!---
+<br>
+
 <h4>Views and followers: </h4>
 <a href="https://github.com/PsimonL/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
 </a>
---->
