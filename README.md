@@ -27,6 +27,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
 </p>
@@ -34,7 +35,6 @@
 <h5>Familarity:</h5>
   <p align="left">
   <img src="https://img.icons8.com/fluency/512/r-project.png" alt="R SOFTWARE" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/512/c-programming.png" alt="C" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/html-5.png" alt="HTML" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/css3.png" alt="CSS" width="40" height="40"/>
@@ -62,9 +62,10 @@
   <img src="https://img.icons8.com/color/512/windows-10.png" alt="WINDOWS" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/jupyter.png" alt="JUPYTER" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="mysql" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/512/docker.png" alt="docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/postgreesql.png" alt="POSTGRESQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="MYSQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/docker.png" alt="DOCKER" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
   <img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
