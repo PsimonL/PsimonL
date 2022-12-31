@@ -11,7 +11,7 @@
 <div>
 <h2>Exact fields of interest:</h2>
 <ul>
-  <li>Broadly defined programming and software enginerring. Especially AI/ML (MLOps) and Data Engineering fields but also DevOps, infrastructure and administration with a bit of Web Services, QA.</li>
+  <li>Broadly defined programming and software enginerring. Especially AI/ML (MLOps), Data Engineering and DevOps, but also infrastructure and administration with a bit of Web Services, QA.</li>
   <li>Basics of electronics and ICT: NI Multisim, Asembler, Active Directory, GNS3, Linux Admin.</li>
   <li>Love for Math and overall STEM fields of science.</li>
 </ul>
