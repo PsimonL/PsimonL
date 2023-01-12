@@ -7,7 +7,7 @@
 <div>
   <h1 align="center">Hi 👋, I'm Szymon</h1>
 </div>
-
+  
 <div>
   <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science. Aiming for Master's Engineering degree in Applied Computer Science or Data Science.</p>
 </div>
@@ -94,30 +94,19 @@
 <br>
 
  <h3>Stats: </h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PsimonL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="PsimonL" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PsimonL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="PsimonL" /></p>
-<p><img align="center" 
+  <p><img align="center" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=PsimonL&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
     alt="PsimonL" /></p>   
-<p align="left"> 
-      <a href="https://twitter.com/" 
-      target="blank">
-      <img align="center"
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<br>
+        
+  <p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsimonL"
+    alt="PsimonL" /></p>
 
 <br>
 
-<!-- <h4>Views and followers: </h4>
-<a href="https://github.com/PsimonL/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
-</a> -->
+        
 
 </body>    
 </html>
