@@ -66,18 +66,18 @@
 <p align="left">
       <a hre="https://www.microsoft.com/pl-pl/software-download/windows10"><img src="https://img.icons8.com/color/512/windows-10.png" alt="WINDOWS" width="40" height="40"/>
       <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/ubuntu.png" alt="UBUNTU" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/fluency/512/jupyter.png" alt="JUPYTER" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/postgreesql.png" alt="POSTGRESQL" width="40" height="40"/>
+      <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/512/ubuntu.png" alt="UBUNTU" width="40" height="40"/>
+      <a href="https://jupyter.org/"><img src="https://img.icons8.com/fluency/512/jupyter.png" alt="JUPYTER" width="40" height="40"/>
+      <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/512/postgreesql.png" alt="POSTGRESQL" width="40" height="40"/>
       <a href="https://www.sqlite.org/index.html"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLITE" width="70" height="40"/>
-      <a href=""><img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="MYSQL" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/docker.png" alt="DOCKER" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/fluency/512/vmware-workstation-player.png" alt="VM WARE" width="40" height="40"/>
-      <a href=""><img src="https://img.icons8.com/color/512/virtualbox.png" alt="VIRTUALBOX" width="40" height="40"/>
+      <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/512/mysql-logo.png" alt="MYSQL" width="40" height="40"/>
+      <a href="https://aws.amazon.com/free/?trk=66441bc6-e4bc-4a33-aafb-45319d9c5b51&sc_channel=ps&s_kwcid=AL!4422!3!453071974957!e!!g!!aws&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HBTEA3K8VjJOP5SXlcXnqE57Rg4dOYpuTXqIvoM20Mlm-BPf3UL7zIaAmIrEALw_wcB:G:s&s_kwcid=AL!4422!3!453071974957!e!!g!!aws"><img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+      <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/512/docker.png" alt="DOCKER" width="40" height="40"/>
+      <a href="https://www.jetbrains.com/"><img src="https://img.icons8.com/color/512/jetbrains.png" alt="JETBRAINS" width="40" height="40"/>
+      <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" alt="VISUAL STUDIO CODE" width="40" height="40"/>
+      <a href="https://visualstudio.microsoft.com/pl/"><img src="https://img.icons8.com/color/512/visual-studio.png" alt="VISUAL STUDIO" width="40" height="40"/>
+      <a href="https://www.vmware.com/"><img src="https://img.icons8.com/fluency/512/vmware-workstation-player.png" alt="VM WARE" width="40" height="40"/>
+      <a href="https://www.virtualbox.org/"><img src="https://img.icons8.com/color/512/virtualbox.png" alt="VIRTUALBOX" width="40" height="40"/>
 </p>
 
 <br>
@@ -114,10 +114,10 @@
 
 <br>
 
-<h4>Views and followers: </h4>
+<!-- <h4>Views and followers: </h4>
 <a href="https://github.com/PsimonL/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
-</a>
+</a> -->
 
 </body>    
 </html>
