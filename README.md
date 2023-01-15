@@ -104,9 +104,10 @@
 <br>
         
   <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsimonL&theme=dark&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsimonL&theme=dark&langs_count=6"
     alt="PsimonL" /></p>
 <!-- &layout=compact -->
+<!-- &langs_count=10 -->
 <br>
 
         
