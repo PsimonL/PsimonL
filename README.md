@@ -54,6 +54,7 @@
 <p align="left">
       <a href="https://numpy.org/"><img src="https://img.icons8.com/color/512/numpy.png" alt="NUMPY" width="40" height="40"/>
       <a href="https://www.tensorflow.org/?gclid=CjwKCAiA8OmdBhAgEiwAShr40yYq2CtQm7XLbSXfvl6n_RLorRRXgYCyOsoW2f0bWBKJFp2nyVxk-RoCHNoQAvD_BwE"><img src="https://img.icons8.com/color/512/tensorflow.png" alt="TENSORFLOW" width="40" height="40"/>
+      <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/256/django.png" alt="DJANGO" width="40" height="40"/>  
       <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://img.icons8.com/fluency/512/flask.png" alt="FLASK" width="40" height="40"/>
       <a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/color/512/pandas.png" alt="PANDAS" width="40" height="40"/>
       <a href="https://seaborn.pydata.org/citing.html"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="SEABORN" width="80" height="80"/>
