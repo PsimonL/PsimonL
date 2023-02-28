@@ -41,6 +41,7 @@
       <a href="https://go.dev/"><img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
       <a href="https://www.java.com/eng/"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/>
       <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
+      <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.icons8.com/fluency/256/matlab.png" alt="MATLAB" width="40" height="40"/>
       <a href="https://www.r-project.org/"><img src="https://img.icons8.com/fluency/512/r-project.png" alt="R SOFTWARE" width="40" height="40"/>
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/512/c-sharp-logo-2.png" alt="C#" width="40" height="40"/>
       <a href="https://devdocs.io/javascript/"><img src="https://img.icons8.com/color/512/javascript.png" alt="JAVASCRIPT" width="40" height="40"/>
