@@ -9,7 +9,8 @@
 </div>
   
 <div>
-  <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Engineering Informatics / Industrial Computer Science (Former       Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer     Science or Industrial Computer Science. Aiming for Master's Engineering degree in Applied Computer Science or Data Science.</p>
+  <h2 align="left">About me:</h1>
+  <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Industrial Computer Science (Former Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer Science, Computer Science - Data Science or Industrial Computer Science.</p>
 </div>
 
 <br>
@@ -17,9 +18,11 @@
 <div>
 <h2>Exact fields of interest:</h2>
 <ul>
-      <li>Broadly defined programming and software enginerring. Especially AI/ML, Data Engineering and DevOps (MLOps). But also infrastructure and system administration tools. I have  with a bit of Web Services, QA.</li>
-      <li>Basics of electronics and ICT: NI Multisim, Asembler, Active Directory, GNS3, Linux Admin.</li>
-      <li>Love for Math and overall STEM.</li>
+      <li>Broadly defined Software Enginerring and overall Computer Science. Especially AI/ML, Data Engineering and DevOps (MLOps). But also infrastructure and system administration tools are known to myself.</li>
+      <li>Also I'm familiar with Web Dev and QA, as well as bit of mobile Dev.</li>
+      <li>I've got basics of network administartion: Active Directory, Cisco Packet Tracer, Nmap, Wireshark. </li>
+      <li>
+      <li>Love for Math, Physics and overall STEM.</li>
 </ul>
 </div>
 
