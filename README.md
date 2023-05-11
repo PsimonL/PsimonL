@@ -20,15 +20,28 @@
 <ul>
       <li>Broadly defined Software Enginerring and overall Computer Science. Especially AI/ML, Data Engineering and DevOps (MLOps). But also infrastructure and system administration tools are known to myself.</li>
 <div>
-<h2>Exact fields of interest:</h2>
+<h2>Other stuff:</h2>
   </div>
       <li>Also I'm familiar with Web Dev and QA, as well as bit of mobile Dev.</li>
       <li>I've got basics of network administartion: Active Directory, Cisco Packet Tracer, Nmap, Wireshark.</li>
       <li>As well as I'm familiar with electronics: NI Multisim, Asembler, Arduino, C.</li>
       <li>Love for Math, Physics and overall STEM.</li>
 </ul>
+
+<br>
+  
+</div>
+<div>
+<h2>Engineering's Degree project:</h2> 
 </div>
 
+<br>
+  
+<div>
+<h2>Certificates: (look up to my LinkedIn - BIO)</h2> 
+
+</div> 
+  
 <br>
 
 <div>
