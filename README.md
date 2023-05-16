@@ -101,8 +101,12 @@
       <a href="https://www.virtualbox.org/"><img src="https://img.icons8.com/color/512/virtualbox.png" alt="VIRTUALBOX" width="40" height="40"/>
       <a href="https://www.wireshark.org/"><img src="https://img.icons8.com/?size=512&id=rOHcpTUtCTjr&format=png" alt="WIRESHARK" width="40" height="40"/>
       <a href="https://fedoraproject.org/pl/"><img src="https://img.icons8.com/?size=512&id=25004&format=png" alt="FEDORA" width="40" height="40"/>
+      <a href=""><img src="https://img.icons8.com/?size=512&id=_blXzVtROzHQ&format=png" alt="CENTOS" width="40" height="40"/>
+      <a href=""><img src="https://img.icons8.com/?size=512&id=17838&format=png" alt="DEBIAN" width="40" height="40"/>
       <a href="https://www.ansible.com/"><img src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png" alt="ANSIBLE" width="40" height="40"/>
       <a href="https://kubernetes.io/"><img src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png" alt="KUBERNETES" width="40" height="40"/>
+      <a href=""><img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="GIT" width="40" height="40"/>  
+        
 </p>
 
 <br>
