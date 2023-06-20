@@ -10,7 +10,7 @@
   
 <div>
   <h2 align="left">About me:</h1>
-  <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Industrial Computer Science (Former Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer Science, Computer Science - Data Science or Industrial Computer Science.</p>
+  <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Industrial Computer Science (Former Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer Science, Computer Science - Data Science.</p>
 </div>
 
 <br>
