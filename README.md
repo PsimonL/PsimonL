@@ -9,7 +9,7 @@
 </div>
   
 <div>
-  <h2 align="left">About me:</h1>
+  <h2> align="left">About me:</h2>
   <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Industrial Computer Science (Former Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer Science, Computer Science - Data Science.</p>
 </div>
 
@@ -18,13 +18,13 @@
 <div>
 <h2>Exact fields of interest:</h2>
 <ul>
-      <li>Broadly defined Software Enginerring and overall Computer Science. Especially AI/ML, Data Engineering and DevOps (MLOps). But also infrastructure and system administration tools are known to myself.</li>
+      <li>Broadly defined Software Engineering and overall Computer Science. Especially AI/ML, Data Engineering and DevOps (MLOps). But also infrastructure and system administration tools are known to myself.</li>
 <div>
 <h2>Other stuff:</h2>
   </div>
       <li>Also I'm familiar with Web Dev and QA, as well as bit of mobile Dev.</li>
-      <li>I've got basics of network administartion: Active Directory, Cisco Packet Tracer, Nmap, Wireshark.</li>
-      <li>As well as I'm familiar with electronics: NI Multisim, Asembler, Arduino, C.</li>
+      <li>I've got basics of network administration: Active Directory, Cisco Packet Tracer, Nmap, Wireshark.</li>
+      <li>As well as I'm familiar with electronics: NI Multisite, Assembler, Arduino, C.</li>
       <li>Love for Math, Physics and overall STEM.</li>
 </ul>
 
@@ -51,15 +51,15 @@
 <h4>Skills:</h4>
 <p align="left">
       <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
-      <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-      <a href="https://www.iso-9899.info/wiki/Main_Page"><img src="https://img.icons8.com/fluency/512/c-programming.png" alt="C" width="40" height="40"/>
-</p>
-
-<h4>Familarity:</h4>
-  <p align="left">
       <a href="https://go.dev/"><img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
       <a href="https://www.java.com/eng/"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/>
       <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
+</p>
+
+<h4>Familiarity:</h4>
+  <p align="left">
+      <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+      <a href="https://www.iso-9899.info/wiki/Main_Page"><img src="https://img.icons8.com/fluency/512/c-programming.png" alt="C" width="40" height="40"/>
       <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.icons8.com/fluency/256/matlab.png" alt="MATLAB" width="40" height="40"/>
       <a href="https://www.r-project.org/"><img src="https://img.icons8.com/fluency/512/r-project.png" alt="R SOFTWARE" width="40" height="40"/>
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/512/c-sharp-logo-2.png" alt="C#" width="40" height="40"/>
