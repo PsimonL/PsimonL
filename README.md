@@ -126,13 +126,14 @@
 <!--   <p><img align="center" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=PsimonL&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
     alt="PsimonL" /></p>    -->
-          <p><img align="center" 
-    src="https://github-readme-stats.vercel.app/api/?username=PsimonL&theme=onedark" 
-    alt="PsimonL" /></p>   
+    <p><img align="center" 
+      src="https://github-readme-stats.vercel.app/api/?username=PsimonL&theme=dracula" 
+      alt="PsimonL" />
+    </p>
 
 <br>
-        
-<!--   <p><img align="center"
+  
+<!-- <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsimonL&theme=dark&langs_count=7&layout=compact"
     alt="PsimonL" /></p> -->
 <!-- &layout=compact -->
