@@ -33,6 +33,7 @@
 </div>
 <div>
 <h2>Engineering's Degree project:</h2> 
+  <p>Analysis and Comparison of the Effectiveness of Route Planning Algorithms Utilizing Selected Machine Learning Methods, Graph Algorithms, and Optimization Techniques.</p>
 </div>
 
 <br>
