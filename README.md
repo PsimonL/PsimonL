@@ -10,55 +10,69 @@
   
 <div>
   <h2 align="left">About me:</h2>
-  <p>I'm currently studying at AGH UST in Kraków, Poland, doing Engineering degree. Enrolled into Industrial Computer Science (Former Electronics and Telecommunication student - succesfully shifted between courses after accomplishing 1st term). Aiming at Master's in Applied Computer Science.</p>
+  <p>AGH Univeristy of Science and Technology in Kraków, Poland. </p>
+  <p>Currently studying Applied Computer Science in Physics at WFIS faculty.</p>
+  <p>Bacherols of Engineering in Industrial Computer Science at WIMIIP faculty (former Electronics and Telecommunication student at WIET faculty- succesfully shifted between courses after accomplishing 1st term).</p>
 </div>
 
 <br>
 
 <div>
-<h2>Exact fields of interest:</h2>
-<ul>
-      <li>Broadly defined Software Engineering and overall Computer Science. Especially AI/ML, Data Engineering and DevOps (MLOps). But also infrastructure and system administration tools are known to myself as well as strong programming background in various languages (DevOps).</li>
+  <h2 align="left">Fields of interest:</h2>
+  <ul>
+    <li>Broadly defined Software Engineering and overall Computer Science.</li> 
+    <li>Especially AI/ML, Data Engineering and DevOps (MLOps). </li>
+    <li>But also infrastructure and system administration tools are known to myself as well as strong programming background in various languages (DevOps).</li>
+  </ul>
+</div>
+
+<br>
+
 <div>
-<h2>Other stuff:</h2>
-  </div>
-      <li>Also I'm familiar with Web Dev and QA, as well as bit of mobile Dev.</li>
-      <li>I've got basics of network administration: Active Directory, Cisco Packet Tracer, Nmap, Wireshark.</li>
-      <li>As well as I'm familiar with electronics: NI Multisite, Assembler, Arduino, Raspberry Pi, C.</li>
-      <li>Love for Math, Physics and overall STEM.</li>
-</ul>
+  <h2>Other stuff:</h2>
+    <li>Also I'm familiar with Web Dev and QA, as well as bit of mobile Dev.</li>
+    <li>I've got basics of network administration: Active Directory, Cisco Packet Tracer, Nmap, Wireshark.</li>
+    <li>As well as I'm familiar with electronics: NI Multisite, Assembler, Arduino, Raspberry Pi, C.</li>
+    <li>Love for Math, Physics and overall STEM.</li>
+</div>
+
+<br>
+
+<div>
+  <h2>Masters's of Engineering project:</h2> 
+    <p>NOT PICKED YET.</p>
+</div>
+
+<div>
+  <h2>Engineering's Degree project:</h2> 
+    <p>Analysis and Comparison of the Effectiveness of Route Planning Algorithms Utilizing Selected Machine Learning Methods, Graph Algorithms, and Optimization Techniques.</p>
+</div>
 
 <br>
   
-</div>
 <div>
-<h2>Engineering's Degree project:</h2> 
-  <p>Analysis and Comparison of the Effectiveness of Route Planning Algorithms Utilizing Selected Machine Learning Methods, Graph Algorithms, and Optimization Techniques.</p>
-</div>
-
-<br>
-  
-<div>
-<h2>Certificates: (look up to my LinkedIn - BIO)</h2> 
-
+  <h2>Certificates: (look up to my LinkedIn - BIO)</h2> 
+    <li>Introduction to Deep Learning.</li>
+    <li>AIM: AWS Cloud Practictioner</li>
+    <li>AIM: [CISCO Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)</li>
 </div> 
   
 <br>
 
 <div>
-<h2>Technology Stack:</h2> <!--- https://icons8.com/icons/set/docker --->
+  <h2>Technology Stack:</h2> <!--- https://icons8.com/icons/set/docker --->
   
-<h3>Programming languages:</h3>
-<h4>Skills:</h4>
-<p align="left">
-      <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
-      <a href="https://go.dev/"><img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
-      <a href="https://www.java.com/eng/"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/>
-      <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
-</p>
-
-<h4>Familiarity:</h4>
+  <h3>Programming languages:</h3>
+  <h4>Skills:</h4>
   <p align="left">
+    <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="PYTHON" width="40" height="40"/>
+    <a href="https://go.dev/"><img src="https://img.icons8.com/color/512/golang.png" alt="GOLANG" width="40" height="40"/>
+    <a href="https://www.java.com/eng/"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="JAVA" width="40" height="40"/>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/512/bash.png" alt="BASH" width="40" height="40"/>
+  </p>
+
+  <h4>Familiarity:</h4>
+    <p align="left">
       <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
       <a href="https://www.iso-9899.info/wiki/Main_Page"><img src="https://img.icons8.com/fluency/512/c-programming.png" alt="C" width="40" height="40"/>
       <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.icons8.com/fluency/256/matlab.png" alt="MATLAB" width="40" height="40"/>
@@ -67,7 +81,7 @@
       <a href="https://devdocs.io/javascript/"><img src="https://img.icons8.com/color/512/javascript.png" alt="JAVASCRIPT" width="40" height="40"/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/512/html-5.png" alt="HTML" width="40" height="40"/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/512/css3.png" alt="CSS" width="40" height="40"/>
-</p>
+  </p>
 </div>
 
 <h4>Frameworks & Libraries:</h4>
