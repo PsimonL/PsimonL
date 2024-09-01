@@ -12,7 +12,8 @@
   <h2 align="left">About me:</h2>
   <p>AGH Univeristy of Science and Technology in Kraków, Poland. </p>
   <p>Currently studying Applied Computer Science in Physics at WFIS faculty.</p>
-  <p>Bacherols of Engineering in Industrial Computer Science at WIMIIP faculty (former Electronics and Telecommunication student at WIET faculty- succesfully shifted between courses after accomplishing 1st term).</p>
+  <p>Bacherols of Engineering in Industrial Computer Science at WIMIIP faculty (former Electronics and Telecommunication student at WIET faculty- succesfully shifted between courses after accomplishing 1st term.</p>
+  <p>The most approachable format of Computer Science and Computer Engineering concepts, in my opinion: https://www.youtube.com/@Computerphile</p>  
 </div>
 
 <br>
