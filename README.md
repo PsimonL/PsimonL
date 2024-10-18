@@ -1,8 +1,5 @@
 <html>
-<!-- <head>
-  <title>Personal README.md </title>
-</head> -->
-
+  
 <body>  
 <div>
   <h1 align="center">Hi 👋, I'm Szymon</h1>
@@ -11,37 +8,27 @@
 <div>
   <h2 align="left">About me:</h2>
   <p>AGH Univeristy of Science and Technology in Kraków, Poland. </p>
-  <p>Currently studying Applied Computer Science in Physics at WFIS faculty.</p>
-  <p>Bacherols of Engineering in Industrial Computer Science at WIMIIP faculty (former Electronics and Telecommunication student at WIET faculty- succesfully shifted between courses after accomplishing 1st term.</p>
+  <p>Studying Applied Computer Science.</p>
   <p>The most approachable format of Computer Science and Computer Engineering concepts, in my opinion: https://www.youtube.com/@Computerphile</p>  
 </div>
 
 <br>
 
 <div>
-  <h2 align="left">Fields of interest:</h2>
+  <h2 align="left">Fields of Interest:</h2>
   <ul>
-    <li>Broadly defined Software Engineering and overall Computer Science.</li> 
-    <li>Especially AI/ML, Data Engineering and DevOps (MLOps). </li>
-    <li>But also infrastructure and system administration tools are known to myself as well as strong programming background in various languages (DevOps).</li>
+    <li>Software Engineering & Computer Science: Comprehensive understanding of software development, systems design, and core computer science principles.</li>
+    <li>DevOps / SysOps & Infrastructure Management: Enthusiastic about automation, integration, and optimization of development pipelines and infrastructure, focusing on Linux administration, network management, monitoring tools, CI/CD, containerization, orchestration, and cloud services as well as security.</li>
+    <li>Cybersecurity: Interested in secure development practices, threat recognition and prevention, and system hardening.</li>
+    <li>ML & Data Engineering & : Broad experience with machine learning, neural networks, algorithmics and data processing.</li>
   </ul>
 </div>
 
 <br>
 
 <div>
-  <h2>Other stuff:</h2>
-    <li>Also I'm familiar with Web Dev and QA, as well as bit of mobile Dev.</li>
-    <li>I've got basics of network administration: Active Directory, Cisco Packet Tracer, Nmap, Wireshark.</li>
-    <li>As well as I'm familiar with electronics: NI Multisite, Assembler, Arduino, Raspberry Pi, C.</li>
-    <li>Love for Math, Physics and overall STEM.</li>
-</div>
-
-<br>
-
-<div>
   <h2>Masters's of Engineering project:</h2> 
-    <p>NOT PICKED YET.</p>
+    <p>Comparison of the capabilities of selected IDS/IPS systems in the context of network traffic analysis and threat identification.</p>
 </div>
 
 <div>
@@ -52,10 +39,8 @@
 <br>
   
 <div>
-  <h2>Certificates: (look up to my LinkedIn - BIO)</h2> 
-    <li>Introduction to Deep Learning.</li>
-    <li>AIM: AWS Cloud Practictioner</li>
-    <li>AIM: [CISCO Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials)</li>
+  <h2>Certificates:</h2> 
+    <li>Look up to my LinkedIn - BIO</li>
 </div> 
   
 <br>
